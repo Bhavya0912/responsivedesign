@@ -15,7 +15,13 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from myresponsiveapp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path ('', views.productsresponsive , name='productsresponsive'),
+    path('home/', views.home , name='productsresponsive'),
+    path('productsresponsive/', views.productsresponsive , name='productsresponsive'),
+    path('peopleresponsive/', views.peopleresponsive , name='productsresponsive'),
+    path('contactus/', views.contactus , name='productsresponsive'),
 ]
