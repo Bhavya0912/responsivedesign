@@ -399,4 +399,4 @@ Publish the website in the given URL.
 
 
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://bhavya.student.saveetha.in:8000/productsresponsive. HTML code is validated.
+Thus a website is designed for the  responsive with two break points and is hosted in the URL http://bhavya.student.saveetha.in:8000/productsresponsive. HTML code is validated.
