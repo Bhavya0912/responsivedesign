@@ -386,6 +386,8 @@ Publish the website in the given URL.
 
 ![output](./static/img/output7.jpg)
 
+![output](./static/img/output8.jpg)
+
 ## CODE VALIDATION REPORT:
 ![output](./static/img/report1.jpg)
 
